@@ -209,3 +209,6 @@ FocusWriter is offered as a full free version, with all features and updates inc
 ---
 
 Start your distraction-free writing journey today by downloading FocusWriter! Enjoy the full version with all features included for free!
+
+---
+**Last updated:** 2026-09-16 07:25:33 UTC
